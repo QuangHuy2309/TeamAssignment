@@ -1,0 +1,20 @@
+.div-btn {
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+}
+
+#btn-delete {
+    left: 3rem;
+}
+
+#btn-cancel {
+    left: 10rem;
+}
+
+.div-message{
+    font-size: 1.3rem;
+}
+
+#delete-modal-width {
+    width: 34rem;
+}

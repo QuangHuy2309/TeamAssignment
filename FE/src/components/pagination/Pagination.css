@@ -1,0 +1,10 @@
+#pagination{
+    padding-right: 3rem;
+}
+#pagination_link:hover {
+    background-color: red;
+}
+
+#pagination_link:focus {
+    background-color: orangered;
+}

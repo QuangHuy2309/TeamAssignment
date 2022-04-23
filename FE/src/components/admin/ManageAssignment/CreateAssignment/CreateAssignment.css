@@ -1,0 +1,343 @@
+.form-input-create {
+  position: absolute;
+  left: 80px;
+  overflow: visible;
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 11px;
+  border: 1px solid rgba(112, 112, 112, 1);
+}
+
+.form-input-create-error {
+  position: absolute;
+  left: 80px;
+  overflow: visible;
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 11px;
+  border: 1px solid rgb(245, 15, 15);
+}
+
+.error-message-create {
+  position: relative;
+  left: 80px;
+  top: 20px;
+  color: red;
+  font-size: 10px;
+  text-align: left;
+}
+
+.form-area-create {
+  position: absolute;
+  left: 80px;
+  overflow: visible;
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 11px;
+  border: 1px solid rgba(112, 112, 112, 1);
+  resize: none;
+}
+
+.form-textarea-create {
+  position: absolute;
+  left: 80px;
+  overflow: visible;
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 11px;
+  border: 1px solid rgba(112, 112, 112, 1);
+  resize: none;
+}
+
+.form-textarea-create-error {
+  position: absolute;
+  left: 80px;
+  overflow: visible;
+  width: 200px;
+  border-radius: 5px;
+  font-size: 11px;
+  border: 1px solid rgb(245, 15, 15);
+}
+
+.form-textarea {
+  height: 75px;
+}
+
+#Dropdown_default {
+  position: relative;
+  width: 200px;
+  height: fit-content;
+  left: 70px;
+  top: 30px;
+  overflow: visible;
+  background-color: rgba(245, 245, 245, 1);
+  border: 0.5px solid rgba(112, 112, 112, 1);
+  z-index: 9;
+}
+
+.form-select-custom {
+  position: relative;
+  width: 200px;
+  height: 25px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  cursor: pointer;
+}
+
+.form-select-custom:hover {
+  background-color: rgb(168, 168, 168);
+}
+
+.form-select-label {
+  left: 25px;
+  top: 5px;
+  position: absolute;
+  overflow: visible;
+  width: 50px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(33, 37, 41, 1);
+}
+
+#Add_cate {
+  position: relative;
+  width: 200px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  border: 0.5px solid rgba(112, 112, 112, 1);
+}
+
+#add_category {
+  position: absolute;
+  width: 200px;
+  height: 34px;
+  left: 1px;
+  top: 0px;
+  overflow: visible;
+}
+
+#Component_38__2 {
+  position: absolute;
+  width: 200px;
+  height: 34px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  background-color: rgba(239, 241, 245, 1);
+}
+
+#Add_new_category {
+  left: 26.38px;
+  top: 7px;
+  position: absolute;
+  overflow: visible;
+  width: 127px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(207, 35, 56, 1);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#Component_38__16 {
+  position: absolute;
+  width: 200px;
+  height: 34px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  background-color: rgba(239, 241, 245, 1);
+}
+
+.Rectangle_332 {
+  position: absolute;
+  overflow: visible;
+  width: 120px;
+  height: 23px;
+  left: 3px;
+  top: 6px;
+  background-color: white;
+  border: 0.5px solid rgba(112, 112, 112, 1);
+  font-size: 12px;
+}
+
+.Rectangle_332_error {
+  position: absolute;
+  overflow: visible;
+  width: 120px;
+  height: 23px;
+  left: 3px;
+  top: 6px;
+  background-color: white;
+  border: 0.5px solid rgb(245, 15, 15);
+  font-size: 12px;
+}
+
+.Rectangle_333 {
+  position: absolute;
+  overflow: visible;
+  width: 30px;
+  height: 23px;
+  left: 120px;
+  top: 6px;
+  background-color: white;
+  border: 0.5px solid rgba(112, 112, 112, 1);
+  font-size: 12px;
+}
+
+.Rectangle_333_error {
+  position: absolute;
+  overflow: visible;
+  width: 30px;
+  height: 23px;
+  left: 120px;
+  top: 6px;
+  background-color: white;
+  border: 0.5px solid rgb(245, 15, 15);
+  font-size: 12px;
+}
+
+#iconcheck_fwn {
+  position: absolute;
+  width: 10.669px;
+  height: 10.494px;
+  left: 160px;
+  top: 8px;
+  overflow: visible;
+}
+
+.check_fwo {
+  overflow: visible;
+  position: absolute;
+  width: 11.678px;
+  height: 9.494px;
+  left: 0px;
+  top: 2px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.base_fwp {
+  position: absolute;
+  overflow: visible;
+  width: 1px;
+  height: 1px;
+  left: 4.465px;
+  top: 0px;
+}
+
+.x-square-fill_fwq {
+  overflow: visible;
+  position: absolute;
+  width: 9.607px;
+  height: 9.714px;
+  left: 182px;
+  top: 11.499px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Personal_Computer_fy {
+  left: 17px;
+  top: 7px;
+  position: absolute;
+  overflow: visible;
+  width: 139px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  color: rgba(33, 37, 41, 1);
+}
+
+#icondropdown_arrow_fy {
+  fill: rgba(112, 112, 112, 1);
+}
+.icondropdown_arrow_fy {
+  overflow: visible;
+  position: absolute;
+  width: 12px;
+  height: 6px;
+  left: 250px;
+  top: 10px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.cancel-icon {
+  cursor: pointer;
+}
+
+#dropdown_cat {
+  cursor: pointer;
+}
+
+.check {
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+  pointer-events: none;
+}
+
+.check-enable {
+  fill: rgba(227, 12, 24, 1);
+  stroke: rgba(227, 12, 24, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+  cursor: pointer;
+}
+
+#search_etg {
+  fill: rgba(0, 0, 0, 1);
+}
+.search_etg {
+  overflow: visible;
+  position: absolute;
+  width: 16.001px;
+  height: 15.998px;
+  left: 260px;
+  top: 7px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  cursor: pointer;
+}
+
+.form-element-create-btn {
+  position: relative;
+  width: 337px;
+  height: 35px;
+  left: 0px;
+  top: 5px;
+  max-height: fit-content;
+  margin-bottom: 5px;
+  display: flex;
+  align-content: center;
+}
+
+.textselect {
+  font-size: medium;
+  padding-left: 0.5rem;
+  padding-right: 1.5rem;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

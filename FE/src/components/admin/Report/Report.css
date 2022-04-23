@@ -1,0 +1,183 @@
+.title {
+  text-align: left;
+  margin-top: 3rem;
+  color: rgba(207, 35, 56, 1);
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+}
+.funnel-fill {
+  overflow: visible;
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  right: 0.65rem;
+  top: 0.5rem;
+  /* transform: matrix(1, 0, 0, 1, 0, 0); */
+}
+.filter {
+  width: 8rem;
+  position: relative;
+}
+.filter-text {
+  margin-right: 1rem;
+  overflow: visible;
+  position: absolute;
+  left: 0.25rem;
+  top: 0.25rem;
+}
+#Group_199 {
+  width: 8rem;
+  height: 2rem;
+  overflow: visible;
+}
+#Rectangle_336_wj {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_336_wj {
+  /* position: absolute; */
+  overflow: visible;
+  width: 8rem;
+  height: 2rem;
+  /* left: 0px;
+      top: 0px; */
+}
+#Line_5_wk {
+  fill: transparent;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_5_wk {
+  overflow: visible;
+  width: 0.25rem;
+  height: 2rem;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  position: absolute;
+  right: 2.25rem;
+  top: 0px;
+}
+#Group_198 {
+  position: absolute;
+  width: 255px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Rectangle_336 {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_336 {
+  position: absolute;
+  overflow: visible;
+  width: 255px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+}
+#Line_5 {
+  fill: transparent;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_5 {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 33px;
+  left: 226.5px;
+  top: 0.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.category-title-tableReport {
+  border-bottom: 0.12rem solid #b5b5b5;
+}
+.title-tableReport {
+  border-bottom: 0.09rem solid #b5b5b5;
+}
+.row-table-tableReport {
+  border-bottom: 0.09rem solid #b5b5b5;
+  text-align: left;
+}
+.tableReport {
+  border-spacing: 1rem;
+  border-collapse: separate;
+  text-align: left;
+  width: 100%;
+}
+.tableUser td {
+  padding: 0 1.5rem;
+  margin-right: 2rem;
+}
+
+/* .x-circle-fill_kj {
+  overflow: visible;
+  width: 17px;
+  height: 17px;
+  fill: rgba(239, 241, 245, 1);
+  stroke: rgb(92, 45, 51);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+} */
+.exportBtn {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+  margin-bottom: 0.5rem;
+}
+.btn-exportReport {
+  /* position: absolute;
+  right: 1rem; */
+  /* align-content: flex-end; */
+  height: 2.5rem;
+  width: 5rem;
+  border-radius: 5px;
+  border-color: white;
+  background-color: rgba(227, 12, 24, 1);
+  color: white;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1em;
+}
+.icondropdown_arrow_m {
+  fill: rgba(33, 37, 41, 1);
+  overflow: visible;
+  width: 12px;
+  height: 6px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.default-header:hover {
+  cursor: pointer;
+}
+#sorting:hover {
+  cursor: pointer;
+}

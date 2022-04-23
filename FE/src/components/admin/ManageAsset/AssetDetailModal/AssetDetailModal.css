@@ -1,0 +1,125 @@
+.my-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 999;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-none {
+    display: none;
+}
+
+#x-square-fill_kx {
+    fill: transparent;
+    stroke: rgba(227, 12, 24, 1);
+    stroke-width: 2.5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.exit-btn-modal {
+    position: absolute;
+    right: 1.5rem;
+}
+.x-square-fill_kx {
+    overflow: visible;
+    /* position: absolute; */
+    width: 22.5px;
+    height: 22.5px;
+    transition: all 0.3s ease-out;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    /*--web-action-target: Manage_User.html;*/
+    cursor: pointer;
+}
+.form-header-message-assetdetail {
+    width: 367px;
+    white-space: nowrap;
+    line-height: 67px;
+    text-align: left;
+    font-family: Segoe UI, Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: rgba(207, 35, 56, 1);
+}
+.form-header-assetdetail span {
+    position: absolute;
+    left: 1rem;
+    /* top: -50%; */
+}
+.form-header-assetdetail {
+    position: relative;
+    flex-direction: column;
+    /* justify-content: center;
+    align-items: center;
+    text-align: center; */
+    width: 50rem;
+    height: 4.5rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgba(239, 241, 245, 1);
+}
+.form-body-assetdetail {
+    position: absolute;
+    width: 50rem;
+    height: fit-content;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: rgba(250, 252, 252, 1);
+    padding: 3rem;
+    padding-left: 3rem;
+    text-align: left;
+
+}
+.text-assetdetail{
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.30rem;
+    color: rgba(33,37,41,1);
+    margin-left: -4rem;
+    padding-left: 1rem;
+}
+
+.text-assetdetail-title{
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.30rem;
+    color: rgba(33,37,41,1);
+    margin-left: 1rem;
+    padding-left: 1rem;
+}
+
+.text-assetdetail-history {
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.30rem;
+    color: rgba(33,37,41,1);
+    margin-left: 5rem;
+    padding-left: 0.5rem;
+}
+
+.form-container-assetdetail{
+    transform: scale(0.7);
+    display: flex;
+    flex-direction: column;
+     /*justify-content: center;*/
+    align-items: center;
+    min-height: 100vh;
+}
+.login-form-assetdetail {
+    width: 39rem;
+    height: fit-content;
+    overflow: visible;
+}

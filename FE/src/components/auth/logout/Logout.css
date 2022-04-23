@@ -1,0 +1,37 @@
+.btn-save-change-pw {
+    position: absolute;
+    background-color: rgba(233,66,77,1);
+    border: 1px solid rgba(207,35,56,1);
+    border-radius: 7px;
+    width: 85px;
+    height: 40px;
+    color: white;
+    left: 215px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+#btn-div-logout {
+    top: 3.2rem;
+    left: -10.5rem;
+}
+
+#header-logout {
+    width: 20rem;
+}
+
+#body-logout {
+    width: 20rem;
+    height: 11rem;
+}
+
+#form-label-logout {
+    font-size: 1.2rem;
+    left: -20px;
+}
+
+#login-form-logout {
+    height: 34rem;
+    width: 13rem;
+}
+

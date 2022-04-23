@@ -1,0 +1,184 @@
+#account_mig {
+  position: relative;
+  width: 198px;
+  height: 135px;
+  right: 5rem;
+  top: 16px;
+  overflow: visible;
+}
+
+#account_mih {
+  position: relative;
+  width: 87px;
+  height: 27px;
+  left: 640px;
+  top: 0px;
+  font-size: 14px;
+  overflow: visible;
+}
+
+#account_mih:hover {
+  cursor: pointer;
+}
+
+#icondropdown_arrowdefault_mii {
+  position: relative;
+  width: 14px;
+  height: 14px;
+  left: 6rem;
+  top: 0.6rem;
+  overflow: visible;
+}
+
+.DropdownButtonCarotDown_backgr_mij {
+  position: relative;
+  overflow: visible;
+  width: 14px;
+  height: 14px;
+  left: 0px;
+  top: 0px;
+}
+
+#DropdownButtonCarotDown_backgr_mij {
+  fill: transparent;
+}
+
+.icondropdown_arrow_mik {
+  overflow: visible;
+  position: relative;
+  width: 15px;
+  height: 8px;
+  left: -35px;
+  top: -28px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#icondropdown_arrow_mik {
+  fill: rgba(255, 255, 255, 1);
+}
+
+#binhnv_mil {
+  top: -12px;
+  position: relative;
+  overflow: visible;
+  width: 63px;
+  white-space: nowrap;
+  line-height: 67px;
+  margin-top: -23.5px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1rem;
+  color: rgba(250, 252, 252, 1);
+}
+
+#log_out_mim {
+  position: relative;
+  width: 198px;
+  height: 40px;
+  left: 0px;
+  top: 1rem;
+  overflow: visible;
+}
+
+.Path_1_min {
+  overflow: visible;
+  position: relative;
+  width: 198px;
+  height: 40px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Path_1_min {
+  fill: rgba(239, 241, 245, 1);
+}
+
+#Log_out_mio {
+  left: 15.13px;
+  top: -2rem;
+  position: relative;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1rem;
+  color: rgba(33, 37, 41, 1);
+}
+
+#change_pw_mip {
+  position: relative;
+  width: 198px;
+  height: 40px;
+  top: 1rem;
+  overflow: visible;
+}
+
+.Path_1_miq {
+  overflow: visible;
+  position: relative;
+  width: 198px;
+  height: 40px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Path_1_miq {
+  fill: rgba(239, 241, 245, 1);
+}
+
+#Change_password_mir {
+  left: 15.13px;
+  top: -2rem;
+  position: relative;
+  overflow: visible;
+  width: 158px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1rem;
+  color: rgba(33, 37, 41, 1);
+}
+
+.display-none {
+  display: none;
+}
+
+#change_pw_mip:hover {
+  cursor: pointer;
+}
+
+#log_out_mim:hover {
+  cursor: pointer;
+}
+
+.modal-style {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  font-family: Arial;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+}
+
+.Modal-content-h {
+  background-color: transparent!important;
+  border: none!important;
+}
+
+.div-contain-dropdown {
+  position: relative;
+  left:35rem;
+}

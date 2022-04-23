@@ -1,0 +1,192 @@
+.my-modal-UserSelect {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 999;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-none {
+  display: none;
+}
+
+#x-square-fill_kx {
+  fill: transparent;
+  stroke: rgba(227, 12, 24, 1);
+  stroke-width: 2.5px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+/* .exit-btn-modal {
+  position: absolute;
+  right: 1.5rem;
+} */
+.x-square-fill_kx {
+  overflow: visible;
+  /* position: absolute; */
+  width: 22.5px;
+  height: 22.5px;
+  transition: all 0.3s ease-out;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  /*--web-action-target: Manage_User.html;*/
+  cursor: pointer;
+}
+.titleModal-selectUserModal {
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1rem;
+  color: rgba(207, 35, 56, 1);
+}
+
+.form-body-selectUserModal {
+  /* position: absolute; */
+  width: 40rem;
+  height: fit-content;
+  border-radius: 5px;
+  border: 1px solid black;
+  /* background-color: rgba(250, 252, 252, 1); */
+  background-color: white;
+  /* padding: 2rem; */
+  padding-top: 1.5rem;
+  padding-bottom: 3rem;
+  padding-left: 2rem;
+  text-align: left;
+}
+.text-userdetail {
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.2rem;
+  color: rgba(33, 37, 41, 1);
+}
+.form-container-selectUserModal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  min-height: 100vh;
+}
+.login-form-selectUserModal {
+  width: 40rem;
+  height: fit-content;
+  overflow: visible;
+}
+.searchForm {
+  position: absolute;
+  right: 3rem;
+  width: 15rem;
+  border-radius: 5px;
+  border: 0.5px solid;
+  border-color: rgba(112, 112, 112, 1);
+}
+.colSearch {
+  /* text-align: right; */
+  position: relative;
+}
+.searchField-User {
+  width: 13rem;
+  border: transparent;
+  outline: none;
+}
+.searchButton-User {
+  border: 1px solid;
+  border-top: transparent;
+  border-right: transparent;
+  border-bottom: transparent;
+  background: transparent;
+  border-color: rgba(112, 112, 112, 1);
+}
+.btn-UserSelect{
+  text-align: right;
+  margin-top: 1rem;
+}
+.btn-save-selectUserModal {
+  /* position: relative;
+  left: 150px; */
+  width: 3.5rem;
+  left: auto ;
+  border-color: white;
+  height: 30px;
+  border-radius: 5px;
+  background-color: rgba(227, 12, 24, 1);
+  color: white;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  margin-right: 1rem;
+}
+.btn-cancel-selectUserModal {
+  /* position: relative;
+  left: 150px; */
+  width: 4.5rem;
+  
+  height: 30px;
+  border-radius: 5px;
+  background-color: white;
+  color: #050505;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  margin-right: 1rem;
+}
+.title-selectUserModal {
+  margin-bottom: 1rem;
+}
+.staffCodeTitle-table {
+  border-bottom: 0.15rem solid #b5b5b5;
+  width: 7rem;
+}
+.title-table {
+  border-bottom: 0.09rem solid #b5b5b5;
+  width: 5rem;
+}
+.title-table-FullName {
+  border-bottom: 0.09rem solid #b5b5b5;
+  /* width: 10rem; */
+}
+.row-table {
+  border-bottom: 0.09rem solid #b5b5b5;
+  text-align: left;
+}
+.scroll-table-selectUserModal {
+  overflow: scroll;
+  height: 20rem;
+  width: 100%;
+}
+.tableUser-selectUserModal {
+  width: 100%;
+  padding-right: 3rem;
+  border-spacing: 0.5rem;
+  border-collapse: separate;
+  /* height: 20rem; */
+}
+.tableUser-data-selectUserModal {
+  width: 100%;
+  /* padding-right: 3rem; */
+  border-spacing: 0.5rem;
+  border-collapse: separate;
+  /* height: 20rem; */
+}
+.tableUser td {
+  padding: 0 1.5rem;
+  margin-right: 2rem;
+}
+

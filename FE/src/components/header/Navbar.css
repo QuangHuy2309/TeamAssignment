@@ -1,0 +1,83 @@
+#narbav_mid {
+  /* position: absolute; */
+  width: 100%;
+  height: 72px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+
+.Rectangle_329_mie {
+  position: absolute;
+  overflow: visible;
+  width: 100%;
+  height: 72px;
+  left: 0px;
+  top: 0px;
+}
+
+#Rectangle_329_mie {
+  fill: rgba(207, 35, 56, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+
+#Home_mif {
+  left: 138px;
+  top: 16px;
+  position: absolute;
+  overflow: visible;
+  width: 56px;
+  white-space: nowrap;
+  line-height: 67px;
+  margin-top: -23.5px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  color: rgba(250, 252, 252, 1);
+}
+
+#Logo_mjv {
+  position: absolute;
+  width: 385px;
+  height: 56px;
+  left: 138px;
+  top: 10px;
+  overflow: visible;
+}
+
+#Online_Asset_Management_mjw {
+  left: 88px;
+  top: 12px;
+  position: absolute;
+  overflow: visible;
+  width: 298px;
+  white-space: nowrap;
+  line-height: 67px;
+  margin-top: -21.5px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(250, 250, 250, 1);
+}
+
+#Logo_mjx {
+  position: absolute;
+  width: 43px;
+  height: 44px;
+  left: 17px;
+  top: 0px;
+  overflow: visible;
+}
+
+.logo-nav {
+  width: 2.5rem;
+}

@@ -1,0 +1,78 @@
+.container {
+}
+
+.overlay {
+  opacity: 0.5;
+}
+
+.sidebar {
+  width: 262px;
+  height: fit-content;
+  overflow: visible;
+}
+
+.sidebar-element {
+  position: relative;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  background-color: rgba(239, 241, 245, 1);
+  cursor: pointer;
+}
+
+.active {
+  background-color: rgba(207, 35, 56, 1);
+  color: rgb(255, 255, 255);
+}
+
+.sidebar-title {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 125px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.logo {
+  width: 248px;
+  height: 120px;
+  left: 138px;
+  top: 121px;
+  overflow: visible;
+}
+
+.logo-img {
+  position: absolute;
+  width: 92px;
+  height: 93px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+
+.logo-name {
+  left: 0px;
+  top: 93px;
+  position: absolute;
+  overflow: visible;
+  width: 249px;
+  white-space: nowrap;
+  line-height: 67px;
+  margin-top: -23.5px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(207, 35, 56, 1);
+}

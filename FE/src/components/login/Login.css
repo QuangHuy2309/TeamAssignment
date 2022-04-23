@@ -1,0 +1,132 @@
+.form-container {
+  transform: scale(0.7);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.login-form {
+  width: 465.649px;
+  height: 290.959px;
+  overflow: visible;
+}
+.form-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 465.648px;
+  height: 64px;
+  left: 0px;
+  top: 0px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgba(239, 241, 245, 1);
+}
+.form-body {
+  position: absolute;
+  width: 465.648px;
+  height: 228.959px;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: rgba(250, 252, 252, 1);
+}
+.form-header-message {
+  width: 367px;
+  white-space: nowrap;
+  line-height: 67px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(207, 35, 56, 1);
+}
+
+.form-element {
+  position: relative;
+  width: 337px;
+  height: 35px;
+  left: 52.903px;
+  top: 30px;
+  max-height: fit-content;
+  margin-bottom: 15px;
+}
+
+.form-label {
+  position: absolute;
+  left: 0px;
+  top: 10px;
+  overflow: visible;
+  width: 85px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(33, 37, 41, 1);
+}
+
+.form-input {
+  position: absolute;
+  right: -5px;
+  overflow: visible;
+  width: 219px;
+  height: 35px;
+  border-radius: 5px;
+  font-size: 16px;
+  border: 1px solid rgba(33, 37, 41, 1);
+}
+
+.form-button {
+  position: absolute;
+  right: 0px;
+  width: 71px;
+  height: 37px;
+  border-radius: 10px;
+  background-color: red;
+  color: white;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+button:disabled,
+button[disabled] {
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+#eye-fill_lz {
+  position: absolute;
+  width: 16px;
+  height: 11px;
+  left: 312px;
+  top: 12.251px;
+  overflow: visible;
+}
+
+#eye-fill_lz:hover {
+  cursor: pointer;
+}
+
+input::-ms-reveal,
+input::-ms-clear {
+  display: none;
+}

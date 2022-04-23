@@ -1,0 +1,273 @@
+.title {
+  text-align: left;
+  margin-top: 3rem;
+  color: rgba(207, 35, 56, 1);
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+}
+.funnel-fill {
+  overflow: visible;
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  right: 0.65rem;
+  top: 0.5rem;
+  /* transform: matrix(1, 0, 0, 1, 0, 0); */
+}
+.filter {
+  width: fit-content;
+  position: relative;
+}
+.filter-text {
+  margin-right: 1rem;
+  overflow: visible;
+  position: absolute;
+  left: 0.25rem;
+  top: 0.25rem;
+}
+#Group_199 {
+  width: 129px;
+  height: 2rem;
+  overflow: visible;
+}
+#Rectangle_336_wj {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_336_wj {
+  /* position: absolute; */
+  overflow: visible;
+  width: 129px;
+  height: 2rem;
+  /* left: 0px;
+    top: 0px; */
+}
+#Line_5_wk {
+  fill: transparent;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_5_wk {
+  overflow: visible;
+  width: 0.25rem;
+  height: 2rem;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  position: absolute;
+  right: 2.25rem;
+  top: 0px;
+}
+#Group_198 {
+  position: absolute;
+  width: 255px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Rectangle_336 {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_336 {
+  position: absolute;
+  overflow: visible;
+  width: 255px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+}
+#Line_5 {
+  fill: transparent;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_5 {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 33px;
+  left: 226.5px;
+  top: 0.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.searchGroup {
+  display: flex;
+}
+
+.searchFormAsset {
+  position: relative;
+  right: 50px;
+  width: 220px;
+  border-radius: 5px;
+  border: 0.5px solid;
+  border-color: rgba(112, 112, 112, 1);
+}
+
+.searchButtonAsset {
+  border: 1px solid;
+  border-top: transparent;
+  border-right: transparent;
+  border-bottom: transparent;
+  background: transparent;
+  border-color: rgba(112, 112, 112, 1);
+}
+
+.searchFieldAsset {
+  border: transparent;
+  outline: none;
+}
+
+#search {
+  fill: rgba(0, 0, 0, 1);
+}
+
+.search {
+  overflow: visible;
+  /* position: absolute; */
+  width: 16.001px;
+  height: 15.998px;
+  /* left: 232px;
+    top: 11px; */
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Search_bar {
+  position: relative;
+  width: 255px;
+  height: 2rem;
+  overflow: visible;
+}
+.assetCodeTitle-table {
+  border-bottom: 0.15rem solid #b5b5b5;
+  padding-right: 0.5rem;
+  padding-top: 1rem;
+  padding-bottom: 0.155rem;
+}
+.title-table {
+  border-bottom: 0.09rem solid #b5b5b5;
+}
+.row-table {
+  border-bottom: 0.09rem solid #b5b5b5;
+  text-align: left;
+}
+.tableAsset {
+  border-spacing: 0.5rem;
+  border-collapse: separate;
+}
+.tableAsset td {
+  padding: 0 1.5rem;
+  margin-right: 2rem;
+}
+.btn-table {
+  display: flex;
+  text-align: left;
+  padding: 0 1rem !important;
+}
+.edtBtn_Asset {
+  position: relative;
+  width: fit-content;
+  margin-right: 1rem;
+}
+.edit_icon_kh {
+  overflow: visible;
+  width: 16.001px;
+  height: 16px;
+  fill: rgba(112, 112, 112, 1);
+}
+
+.disable {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.x-circle-fill_kj {
+  overflow: visible;
+  width: 17px;
+  height: 17px;
+  fill: rgba(239, 241, 245, 1);
+  stroke: rgba(207, 35, 56, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+
+.x-circle-fill_kj:hover {
+  cursor: pointer;
+}
+
+.x-circle-fill_kj-disable {
+  stroke: #eeafb6 !important;
+}
+
+.x-circle-fill_kj-disable:hover {
+  cursor: default !important;
+}
+
+.btn-create-asset {
+  position: relative;
+  right: 20px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: rgba(227, 12, 24, 1);
+  color: white;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+}
+.icondropdown_arrow_m {
+  fill: rgba(33, 37, 41, 1);
+  overflow: visible;
+  overflow: visible;
+  position: relative;
+  width: 12px;
+  height: 6px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.stateSelect {
+  border: 0.09rem solid #000;
+  background-color: #f5f5f5;
+  width: 8rem;
+  text-align: left;
+  padding-left: 0.5rem;
+  position: absolute;
+  list-style: none;
+}
+.categorySelect {
+  border: 0.09rem solid #000;
+  background-color: #f5f5f5;
+  width: 8rem;
+  text-align: left;
+  padding-left: 0.5rem;
+  position: absolute;
+  list-style: none;
+}
+.default-header:hover {
+  cursor: pointer;
+}
+#sorting:hover {
+  cursor: pointer;
+}

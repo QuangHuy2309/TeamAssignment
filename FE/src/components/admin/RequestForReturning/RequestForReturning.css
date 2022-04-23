@@ -1,0 +1,39 @@
+.searchFormRequest {
+  position: relative;
+  left: 250px;
+  width: 220px;
+  border-radius: 5px;
+  border: 0.5px solid;
+  border-color: rgba(112, 112, 112, 1);
+}
+
+.searchButtonRequest {
+  border: 1px solid;
+  border-top: transparent;
+  border-right: transparent;
+  border-bottom: transparent;
+  background: transparent;
+  border-color: rgba(112, 112, 112, 1);
+}
+
+.searchFieldRequest {
+  border: transparent;
+  outline: none;
+}
+
+.checkBtn_Request {
+  color: red;
+  cursor: pointer;
+}
+
+.checkBtn_Request-disable {
+  color: #eeafb6;
+}
+
+.cancelBtn_Request {
+  margin-left: 0.5rem;
+}
+
+.enable {
+  cursor: pointer;
+}

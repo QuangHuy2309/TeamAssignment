@@ -1,0 +1,21 @@
+.tableHistory {
+    border-spacing: 0.5rem;
+    border-collapse: separate;
+    margin-left: -10rem;
+}
+.tableHistory td {
+    padding:  0 1.5rem;
+    margin-right: 2rem;
+}
+.title-table {
+    border-bottom: 0.15rem solid #b5b5b5;
+    text-align: left;
+    overflow: visible;
+    white-space: nowrap;
+}
+.row-table{
+    border-bottom: 0.09rem solid #b5b5b5;
+    text-align: left;
+    overflow: visible;
+    white-space: nowrap;
+}
